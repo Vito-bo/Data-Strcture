@@ -1,0 +1,11 @@
+﻿生成启动时间为 2020/1/10 18:08:19。
+     1>项目“F:\C代码\Sort\Sort\Sort.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>f:\c代码\sort\sort\sort.h(198): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>已完成生成项目“F:\C代码\Sort\Sort\Sort.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.00
